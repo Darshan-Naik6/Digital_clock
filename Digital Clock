@@ -3,7 +3,7 @@
 ## About the Project
 This project contains - Digital Clock
 
-Digital Clock -> This clock includes Date (Day, Month, Year), Time (Hours, Minutes, Seconds) and Period (AM/PM). The clock is in 24 hours format.
+Digital Clock -> This clock includes Time (Hours, Minutes, Seconds) and Period (AM/PM). The clock is in 12 hours format.
 
 ## Tech Stacks Used
 
