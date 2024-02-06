@@ -1,0 +1,38 @@
+body {
+    background-color: black;
+}
+.title {
+    background-color: rgb(45, 43, 43);
+    margin-bottom: 10px;
+    text-align: center;
+    width : 746px;
+    color : blue;
+    border : solid black 3px;
+    font-size: 70px;
+}
+input[type = "button"] {
+    background-color: rgb(45, 43, 43);
+    color : white;
+    border : solid black 1px;
+    width : 100%;
+    font-size: 50px;
+}
+input[type = "button2"] {
+    background-color: rgb(45, 43, 43);
+    text-align : center;
+    color : blue;
+    border : solod black 3px;
+    width : 20%;
+    font-size: 50px;
+}
+input[type = "text"] {
+    background-color: rgb(45, 43, 43);
+    color : white;
+    border : solid black 3px;
+    width : 100%;
+    font-size: 50px;
+}
+#equals {
+    background-color: blue;
+    color : white;
+}
